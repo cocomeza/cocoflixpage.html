@@ -1,0 +1,92 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;0,600;0,700;1,400&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: "Poppins", sans-serif;
+}
+
+.nav-menu{
+  margin: 20px;
+  padding: 10px;
+  background-color:blue;
+  text-align: center;
+}
+
+.nav-menu a{
+  color:silver;
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+.nav-menu a:hover,
+.nav-menu a.activo {
+  color: #fff;
+}
+
+.header{
+  padding: 10px 10px 10px 10px;
+  margin: 5px 5px 5px 5px;
+  text-align: center;
+  font-size: 50px;
+
+}
+
+.row {
+  display: flex;
+  margin: 20px;
+}
+
+.column {
+  flex: 33%;
+}
+
+img{
+  width: 250px;
+  height: 350px;
+  align-items: center;
+  text-align: center;
+  
+}
+
+.porfolio,h2,h3,p{
+  text-align: center;
+  margin: 20px 20px 20px 20px;
+}
+
+.porfolio ul,li{
+  text-align: center;
+}
+
+.container{
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  font-family:'Poppins', sans-serif;
+} 
+
+body {
+  background-color:white;
+  font-family: 'Open Sans', sans-serif;  
+
+}
+
+
+.referencias-footer{
+  text-align: center;
+  background-color: rgba(192, 192, 192, 0.561);
+  border: 2px solid blue;
+  color: blue;
+}
+
+.Redes-footer{
+  text-align: center;
+  margin-top: 10px;
+  padding:0%;
+  background-color: rgba(192, 192, 192, 0.561); 
+  border: 2px solid blue;
+}
+
+
+

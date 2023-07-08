@@ -1,0 +1,22 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.nav-menu{
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid blue;
+
+}
+
+ul{
+    text-align: center;
+    margin-top: 20px;
+}
+
+body{
+    background-color:aliceblue;
+}

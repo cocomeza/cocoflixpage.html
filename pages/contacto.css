@@ -1,0 +1,55 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+.nav-menu{
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid blue;
+}
+
+.header, h1, h2 ,p {
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+    justify-content: center;
+
+}
+
+.info{
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid blue;
+    text-align: center;
+    align-items: center;
+}
+
+div{
+    display: flex;
+    text-align: justify;
+    align-items:center;
+    padding: 10px 10px 10px 10px;
+    margin: 5px 5px 5px 5px;
+
+}
+
+.info-form{
+    margin: 20px;
+    padding: 20px;
+    text-align: center;
+    align-items: center;
+    
+}
+
+.info-map{
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid blue;
+    text-align: center;
+    align-items: center;
+
+}
+
